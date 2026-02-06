@@ -85,7 +85,7 @@ This project recommends movies based on their **genres, cast, director, keywords
 1️⃣ **Clone this repository:**
 
 ```bash
-git clone https://github.com/RONAKBAGRI/Movie-Recommendation-System.git
+git clone https://github.com/Princegupta-78/Movie-Recommendation-System.git
 ```
 
 2️⃣ **Install dependencies:**
